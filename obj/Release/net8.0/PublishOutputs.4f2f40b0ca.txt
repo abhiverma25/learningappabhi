@@ -1,0 +1,7 @@
+D:\Projects\learningappabhi\bin\Publish\learningappabhi.exe
+D:\Projects\learningappabhi\bin\Publish\appsettings.Development.json
+D:\Projects\learningappabhi\bin\Publish\appsettings.json
+D:\Projects\learningappabhi\bin\Publish\learningappabhi.dll
+D:\Projects\learningappabhi\bin\Publish\learningappabhi.deps.json
+D:\Projects\learningappabhi\bin\Publish\learningappabhi.runtimeconfig.json
+D:\Projects\learningappabhi\bin\Publish\learningappabhi.pdb
